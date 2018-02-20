@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+	<head>
+	<meta charset="UTF-8">
+	<title> Tourist Attractions in Canada </title> 
+	<style>
+	div. a{
+		line-height: 2
+	}
+	</style>
+	</head>
+	<body>
+		<center><h1> Top 5 Tourist Attractions in Canada </h1></center>
+		
+		<ul>
+		
+		<li> <a href= "file:///F:/Computer%20Science/new%202.html">#5</a>
+		
+		<li> <a href= "file:///F:/Computer%20Science/new%203.html">#4</a>
+		
+		<li> <a href= "file:///F:/Computer%20Science/new%204.html">#3</a>
+		
+		<li> <a href= "file:///F:/Computer%20Science/new%205.html">#2</a>
+		
+		<li> <a href= "file:///F:/Computer%20Science/new%206.html> #1</a>
+		
+	</body>
+	
+</html> 
