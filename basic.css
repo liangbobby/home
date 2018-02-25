@@ -1,6 +1,7 @@
 /*--Default Formatting*/
 div.a{
 		line-height: 2;
+		font-size: 15px;
 		font-family: sans-serif;
 	}
 .center{
@@ -9,6 +10,7 @@ div.a{
 
 p { 
 		line-height: 2;
+		font-size: 15px;
 		font-family: sans-serif;
 }		
 
