@@ -1,0 +1,32 @@
+/*--Homepage formatting*/
+
+body{
+		background-image: url("Flag_of_Canada.svg.png");
+		background-repeat: no-repeat; 
+		background-size: cover;
+}
+
+
+li{
+	font-family: sans-serif;
+}
+
+div.a{
+		line-height: 2;
+		font-family: sans-serif;
+	}
+.center{
+		text-align: center;
+	}
+
+p {
+	font-family: sans-serif;
+	line-height: 2;
+}
+
+h2 {
+	font-family: sans-serif;
+}
+
+
+
